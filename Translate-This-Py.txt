@@ -1,0 +1,48 @@
+1. **Google Translate API**: 
+   www.google.com/translate ---self explanatory
+
+2. **TextBlob**: 
+   - This library simplifies text processing tasks and includes built-in translation capabilities utilizing Google Translate.
+	https://textblob.readthedocs.io/en/dev/
+	
+3. **Translate**: 
+   - A high-level library that offers a simple interface for various translation APIs, including Google Translate.
+	https://pypi.org/project/translate/		
+
+4. **Microsoft Translator Text API**: 
+   - A part of Microsoft Azure, this API can translate text and supports several languages, easily accessible via Python.
+	https://learn.microsoft.com/en-us/azure/ai-services/translator/reference/rest-api-guide
+
+5. **DeepL API**: 
+   - DeepL provides high-quality translation services, and it can be accessed through its API with Python.
+	https://developers.deepl.com/docs/api-reference/translate
+
+6. **Mtranslate**: 
+   - A straightforward library for interacting with Google Translate, allowing for quick translations.
+	--no available link --reroutes to Google Translate
+
+7. **goslate**: 
+   - A simple interface for Google Translate, enabling translation with a few lines of code.
+	https://pypi.org/project/goslate/
+	https://github.com/yeahwhat-mc/goslate
+
+8. **Fairseq**: 
+   - Facebook AI Research's general-purpose sequence-to-sequence framework supports various NLP tasks, including translation.
+	https://ai.meta.com/tools/fairseq/
+	
+9. **OpenNMT**: 
+   - An open-source neural machine translation framework designed for training custom translation models.
+	https://opennmt.net/
+
+10. **transformers (by Hugging Face)**:
+    - This library has pre-trained models for translation, including MarianMT, which is designed for multilingual translation tasks.
+	https://huggingface.co/docs/transformers/en/tasks/translation
+
+11. **nltk (Natural Language Toolkit)**:
+    - While not specifically for translation, it can be used in conjunction with other libraries to preprocess text for translation tasks.
+	https://www.nltk.org/
+
+12. **Bergamot**: 
+    - A project aimed at bringing translation capabilities to web applications and may have Python integration options.
+	https://browser.mt/
+	https://github.com/browsermt/bergamot-translator
